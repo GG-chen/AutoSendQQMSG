@@ -13,5 +13,5 @@
 2 开启软件前需要到手机设置-> 辅助功能-> 服务-> AutoReplyMsg开启
 
 app界面
-![image](C:\Users\John\Desktop\guide1.png)
+![](http://i.niupic.com/images/2016/10/20/HbGed2.png)
 
