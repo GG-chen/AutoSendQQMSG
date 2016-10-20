@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">自动发送消息</string>
+    <string name="auto_reply_description">自动回复信息服务</string>
+    <string name="AutoReplyService">AutoReplyService</string>
+</resources>
